@@ -74,7 +74,7 @@
         </div>
       </div>
       <div class="col-md-6">
-        <div style="height: 150px;" class="alert alert-warning border border-warning">
+        <div class="alert alert-warning border border-warning">
           <div class="inner">
             <img src="{{url('dist/img/sick.png')}}" style="width: 80px;float:right" alt="">
             <span class="font-weight-bold">Suspek</span>
