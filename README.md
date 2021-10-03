@@ -13,8 +13,7 @@ Aplikasi ini dapat dipasang pada server lokal dan online dengan spesifikasi beri
 3. `composer install`
 4. `cp .env.example .env`
 5. `php artisan key:generate`
-6. `php artisan migrate`
-7. `php artisan serve`
+6. `php artisan serve`
 
 ## License
 
