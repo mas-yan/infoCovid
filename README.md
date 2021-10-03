@@ -1,6 +1,3 @@
-## Tentang
-Aplikasi To Do List sederhana yang dibuat dengan laravel 8 dan vue js 3.
-
 ## Cara Install
 
 ### Kebutuhan Server
@@ -8,7 +5,6 @@ Aplikasi To Do List sederhana yang dibuat dengan laravel 8 dan vue js 3.
 Aplikasi ini dapat dipasang pada server lokal dan online dengan spesifikasi berikut:
 
 1. PHP 7.3 (dan mengikuti [server requirements Laravel 8.x](https://laravel.com/docs/8.x/deployment#server-requirements) lainnya),
-2. Database MySQL atau MariaDB.
 
 ### Langkah Instalasi
 
